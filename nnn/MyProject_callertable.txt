@@ -1,0 +1,10 @@
+main
+	__CC2DW
+		____DoICP
+	initialize
+	ATD_init_A0
+	read_sensors
+		ATD_read_A0
+	move_robot
+	stop_robot
+	activate_water_pump
